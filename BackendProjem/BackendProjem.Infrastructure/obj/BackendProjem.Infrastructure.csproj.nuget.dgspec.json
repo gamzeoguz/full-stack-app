@@ -1,0 +1,230 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Infrastructure\\BackendProjem.Infrastructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Core\\BackendProjem.Caching.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Core\\BackendProjem.Caching.Core.csproj",
+        "projectName": "BackendProjem.Caching.Core",
+        "projectPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Core\\BackendProjem.Caching.Core.csproj",
+        "packagesPath": "C:\\Users\\gamze.oguz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gamze.oguz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "MessagePack": {
+              "target": "Package",
+              "version": "[2.5.124, )"
+            },
+            "Microsoft.Extensions.Caching.Memory": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Domain\\BackendProjem.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Domain\\BackendProjem.Domain.csproj",
+        "projectName": "BackendProjem.Domain",
+        "projectPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Domain\\BackendProjem.Domain.csproj",
+        "packagesPath": "C:\\Users\\gamze.oguz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gamze.oguz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Infrastructure\\BackendProjem.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Infrastructure\\BackendProjem.Infrastructure.csproj",
+        "projectName": "BackendProjem.Infrastructure",
+        "projectPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Infrastructure\\BackendProjem.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\gamze.oguz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gamze.oguz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Core\\BackendProjem.Caching.Core.csproj": {
+                "projectPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Core\\BackendProjem.Caching.Core.csproj"
+              },
+              "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Domain\\BackendProjem.Domain.csproj": {
+                "projectPath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Domain\\BackendProjem.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "IdentityServer4": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "IdentityServer4.EntityFramework": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "IdentityServer4.EntityFramework.Storage": {
+              "target": "Package",
+              "version": "[4.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.8, )"
+            },
+            "NEST": {
+              "target": "Package",
+              "version": "[7.17.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\bin\Debug\net7.0\BackendProjem.Caching.Redis.deps.json
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\bin\Debug\net7.0\BackendProjem.Caching.Redis.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\bin\Debug\net7.0\BackendProjem.Caching.Redis.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\bin\Debug\net7.0\BackendProjem.Caching.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\bin\Debug\net7.0\BackendProjem.Serialization.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\bin\Debug\net7.0\BackendProjem.Caching.Core.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\bin\Debug\net7.0\BackendProjem.Serialization.Core.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.csproj.AssemblyReference.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.AssemblyInfoInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.AssemblyInfo.cs
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.csproj.CoreCompileInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.csproj.CopyComplete
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\refint\BackendProjem.Caching.Redis.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\BackendProjem.Caching.Redis.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Redis\obj\Debug\net7.0\ref\BackendProjem.Caching.Redis.dll

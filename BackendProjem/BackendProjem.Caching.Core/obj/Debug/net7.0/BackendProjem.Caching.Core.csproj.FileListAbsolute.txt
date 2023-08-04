@@ -1,0 +1,12 @@
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\bin\Debug\net7.0\BackendProjem.Caching.Core.deps.json
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\bin\Debug\net7.0\BackendProjem.Caching.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\bin\Debug\net7.0\BackendProjem.Caching.Core.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\BackendProjem.Caching.Core.csproj.AssemblyReference.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\BackendProjem.Caching.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\BackendProjem.Caching.Core.AssemblyInfoInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\BackendProjem.Caching.Core.AssemblyInfo.cs
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\BackendProjem.Caching.Core.csproj.CoreCompileInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\BackendProjem.Caching.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\refint\BackendProjem.Caching.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\BackendProjem.Caching.Core.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Caching.Core\obj\Debug\net7.0\ref\BackendProjem.Caching.Core.dll

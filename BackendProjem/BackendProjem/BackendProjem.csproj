@@ -1,0 +1,27 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+	  <TargetFramework>net7.0</TargetFramework>
+
+	  <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+
+	  <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="IdentityServer4" Version="4.1.2" />
+    <PackageReference Include="IdentityServer4.EntityFramework" Version="4.1.2" />
+    <PackageReference Include="IdentityServer4.EntityFramework.Storage" Version="4.1.2" />
+    <PackageReference Include="Microsoft.AspNetCore.Authentication.JwtBearer" Version="7.0.8" />
+    <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.7" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackendProjem.Caching.Core\BackendProjem.Caching.Core.csproj" />
+    <ProjectReference Include="..\BackendProjem.Caching.Redis\BackendProjem.Caching.Redis.csproj" />
+    <ProjectReference Include="..\BackendProjem.Infrastructure\BackendProjem.Infrastructure.csproj" />
+    <ProjectReference Include="..\BackendProjem.Serialization.Core\BackendProjem.Serialization.Core.csproj" />
+  </ItemGroup>
+
+</Project>

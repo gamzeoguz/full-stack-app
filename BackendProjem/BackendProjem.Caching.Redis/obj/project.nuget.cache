@@ -1,0 +1,24 @@
+{
+  "version": 2,
+  "dgSpecHash": "g7RJsHXNZgH+brrfKK5Ar//31SUpCVnjpL8OjP9spUyCXUTMp0cLqQIOo30c5yVAohuCdPpZgHif1YDTdvo19w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Redis\\BackendProjem.Caching.Redis.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\messagepack\\2.5.124\\messagepack.2.5.124.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\messagepack.annotations\\2.5.124\\messagepack.annotations.2.5.124.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.net.stringtools\\17.6.3\\microsoft.net.stringtools.17.6.3.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.8\\pipelines.sockets.unofficial.2.2.8.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\stackexchange.redis\\2.6.122\\stackexchange.redis.2.6.122.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

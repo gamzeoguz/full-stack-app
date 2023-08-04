@@ -1,0 +1,17 @@
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\bin\Debug\net7.0\BackendProjem.Infrastructure.deps.json
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\bin\Debug\net7.0\BackendProjem.Infrastructure.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\bin\Debug\net7.0\BackendProjem.Infrastructure.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\bin\Debug\net7.0\BackendProjem.Domain.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\bin\Debug\net7.0\BackendProjem.Domain.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.AssemblyInfo.cs
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.csproj.CopyComplete
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\refint\BackendProjem.Infrastructure.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\BackendProjem.Infrastructure.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\obj\Debug\net7.0\ref\BackendProjem.Infrastructure.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\bin\Debug\net7.0\BackendProjem.Caching.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Infrastructure\bin\Debug\net7.0\BackendProjem.Caching.Core.pdb

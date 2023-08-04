@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "dgSpecHash": "/H5PXstD8dNXOjzjHMHBnKc/OyT3bAeSOj7LVdsQCw+h7WvSRIDIsuzl9r32xEU5DdT1VFwY/Vn3zh11rUJYYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gamze.oguz\\source\\repos\\BackendProjem\\BackendProjem.Caching.Core\\BackendProjem.Caching.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\messagepack\\2.5.124\\messagepack.2.5.124.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\messagepack.annotations\\2.5.124\\messagepack.annotations.2.5.124.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\7.0.0\\microsoft.extensions.caching.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.caching.memory\\7.0.0\\microsoft.extensions.caching.memory.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\7.0.0\\microsoft.extensions.logging.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.options\\7.0.0\\microsoft.extensions.options.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\microsoft.net.stringtools\\17.6.3\\microsoft.net.stringtools.17.6.3.nupkg.sha512",
+    "C:\\Users\\gamze.oguz\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

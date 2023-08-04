@@ -1,0 +1,12 @@
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\bin\Debug\net7.0\BackendProjem.Serialization.Core.deps.json
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\bin\Debug\net7.0\BackendProjem.Serialization.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\bin\Debug\net7.0\BackendProjem.Serialization.Core.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\BackendProjem.Serialization.Core.csproj.AssemblyReference.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\BackendProjem.Serialization.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\BackendProjem.Serialization.Core.AssemblyInfoInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\BackendProjem.Serialization.Core.AssemblyInfo.cs
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\BackendProjem.Serialization.Core.csproj.CoreCompileInputs.cache
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\BackendProjem.Serialization.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\refint\BackendProjem.Serialization.Core.dll
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\BackendProjem.Serialization.Core.pdb
+C:\Users\gamze.oguz\source\repos\BackendProjem\BackendProjem.Serialization.Core\obj\Debug\net7.0\ref\BackendProjem.Serialization.Core.dll
